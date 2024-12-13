@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-main { }
-#job {height:150px; background:#000; }
-.accio {}
+main { width:150px;
+	height:150px;
+	background-color:black;}
 .hello-accio { color:#fff; margin-left:32px; padding:10px;}
